@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Bash
+title: Introducción a Bash
 description: Test page
-dropdown: programacion
-priority: 1
+dropdown: Bash
+priority: 99
 ---
 Este es un lenguaje de Programación

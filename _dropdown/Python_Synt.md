@@ -2,7 +2,7 @@
 layout: page
 title: Syntaxis Python
 description: Test page
-dropdown: programacion
-priority: 2
+dropdown: Python
+priority: 98
 ---
 Este es un lenguaje de Programación

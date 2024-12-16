@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Python
+title: Introducción a Python
 description: Test page
-dropdown: programacion
-priority: 1
+dropdown: Python
+priority: 99
 ---
 Este es un lenguaje de Programación
