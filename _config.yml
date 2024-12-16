@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: jekyll-theme-potato-hacker
-author: "<your_name>"
-email: "<your@mail>"
-description: A simple Jekyll theme based on potatoes and hackers
-baseurl: "/jekyll-theme-potato-hacker" # the subpath of your site, e.g. /blog
+title: Cyber_4rlekiing
+author: "Natividad R."
+email: "ceo@4kiing.net"
+description: Blog personal de Ciberseguridad.
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # ------------------------------------------------------------------------------
@@ -32,7 +32,7 @@ linkedin_id: "<linkedin_id>"
 # Theme
 # theme: jekyll-theme-potato-hacker                 # Uncomment this
 # remote_theme: luxedo/jekyll-theme-potato-hacker   # Or this
-theme_repository: "https://github.com/luxedo/jekyll-theme-potato-hacker"
+theme_repository: "https://github.com/4kiing/py.github.io"
 theme_base: "dark"       # Theme palette (light | dark)
 theme_switch: on         # Show color switch (on | off)
 
