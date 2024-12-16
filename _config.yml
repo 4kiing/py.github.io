@@ -24,17 +24,17 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Custom settings
 # ------------------------------------------------------------------------------
 # Useful links
-github_username: "<github_username>"
-facebook_username: "<facebook_username>"
-twitter_username: "<twitter_username>"
-linkedin_id: "<linkedin_id>"
+github_username: ""
+facebook_username: ""
+twitter_username: ""
+linkedin_id: ""
 
 # Theme
 # theme: jekyll-theme-potato-hacker                 # Uncomment this
 # remote_theme: luxedo/jekyll-theme-potato-hacker   # Or this
 theme_repository: "https://github.com/4kiing/py.github.io"
 theme_base: "dark"       # Theme palette (light | dark)
-theme_switch: on         # Show color switch (on | off)
+theme_switch: off         # Show color switch (on | off)
 
 # Extra settings
 blog: on                 # Show blog tag and post list (on | off)
@@ -45,8 +45,7 @@ highlighter_theme: gruvbox  # Theme of the syntax_highlighter [base16 |
                             # colorful | github | gruvbox | molokai |
                             # monokai | pastie | thankful_eyes | tulip ]
 toolbar_priority:        # Order of the items in the toolbar (except for blog and home)
-  - programacion
-  - bug bounty
+  - 
   
 # Collections
 collections:
