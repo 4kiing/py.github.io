@@ -2,7 +2,7 @@
 layout: post
 title:  "Complementos"
 date:   2016-10-06 12:07:12 -0200
-categories: blog
+categories: Extras
 layout: post
 ---
 <h1>Labels</h1>
