@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Complementos"
-date:   2016-10-06 12:07:12 -0200
+title:  "1. Complementos para Diseñar el sitio."
+date:   2024-12-16 08:50:00 +0600
 categories: Extras
 layout: post
 ---
@@ -242,7 +242,8 @@ layout: post
         </tr>
       </tbody>
     </table>
-  </div>
+  </div><br>
+
   <div class="col-md-6">
     <table class="table table-striped">
       <thead>
@@ -275,7 +276,7 @@ layout: post
       </tbody>
     </table>
   </div>
-</div>
+</div><br>
 
 <div class="row">
   <div class="col-md-6">
@@ -313,7 +314,8 @@ layout: post
         </tr>
       </tbody>
     </table>
-  </div>
+  </div><br>
+
   <div class="col-md-6">
     <table class="table table-condensed">
       <thead>
@@ -345,7 +347,7 @@ layout: post
       </tbody>
     </table>
   </div>
-</div>
+</div><br>
 
 # [Bootstrap Theme Example](https://getbootstrap.com/docs/3.3/examples/theme/)
 
